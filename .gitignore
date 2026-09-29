@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Byte-compiled / cached
+*.pyc
+*.pyo
+
+# Pytest
+.pytest_cache/
+
+# Agents (internal teamwork logs)
+.agents/
